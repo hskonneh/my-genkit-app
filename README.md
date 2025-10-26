@@ -190,4 +190,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 📧 Contact
 
-Project Link: https://github.com/your-username/my-genkit-app
+Project Link: https://github.com/hskonneh/my-genkit-app
